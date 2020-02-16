@@ -6,7 +6,7 @@ block_cipher = None
 a = Analysis(['Main.py'],
              pathex=['/home/kirill/PycharmProjects/myproject'],
              binaries=[],
-             datas=[('/home/kirill/PycharmProjects/myproject/Languages.txt','.')],
+             datas=[('F:\ShareCodeWindpws\Languages.txt','.')],
              hiddenimports=[],
              hookspath=[],
              runtime_hooks=[],
@@ -26,7 +26,7 @@ exe = EXE(pyz,
           bootloader_ignore_signals=False,
           strip=False,
           upx=True,
-          console=True )
+          console=False )
 coll = COLLECT(exe,
                a.binaries,
                a.zipfiles,

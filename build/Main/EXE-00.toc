@@ -1,5 +1,5 @@
 ('F:\\ShareCodeWindpws\\build\\Main\\Main.exe',
- True,
+ False,
  False,
  True,
  None,
@@ -44,7 +44,7 @@
  [],
  False,
  False,
- 1579703746,
- [('run.exe',
-   'f:\\sharecodewindpws\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
+ 1581865987,
+ [('runw.exe',
+   'f:\\sharecodewindpws\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',
    'EXECUTABLE')])
