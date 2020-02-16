@@ -1,0 +1,15 @@
+altgraph==0.16.1
+gevent==1.4.0
+greenlet==0.4.15
+packaging==19.2
+Pygments==2.5.2
+PyInstaller==3.5
+pyparsing==2.4.6
+PyQt5==5.14.0
+PyQt5-sip==12.7.0
+QScintilla==2.11.4
+sip==4.19.8
+six==1.13.0
+toml==0.10.0
+websocket==0.2.1
+websocket-client==0.56.0
